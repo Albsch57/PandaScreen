@@ -8,6 +8,7 @@
 import UIKit
 
 class MainViewController: UIViewController {
+    
 
     private var cardView: MainView {
         view as! MainView
